@@ -1235,6 +1235,117 @@ html {
 </div>
 <br><br>
 
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title text-center wow zoomIn">
+                        <h1>Frequently Asked Questions</h1>
+                        <span></span>
+                        <p>If you have any doubts regarding Trademark then this article based on FAQs on Trademark Registration in India will clear all your doubts.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">               
+                <div class="col-md-12">
+                    <div class="panel-group accordion" id="accordion" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingOne">
+                                <h4 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                        What is Trademark?
+                                    </a>
+                                </h4>                    
+
+                            </div>
+                            
+                            <div id="collapseOne" class="collapse show" data-parent="#accordion" data-parent="#accordion">
+                                <div class="panel-body">
+                                    <p>The term ‘Trademark’ refers to the brand or logo which represents the business. It is a visual symbol of a signature, name, device, label, numerals or combination of colors used by the owner of the trademark for goods or services or any other articles of commerce. Moreover, it is meant to differentiate among the similar products or services originated from the different business. A trademark can be a word, wrapper, packaging labels or a tagline or a combination of these. For example Coca-Cola and Pepsi.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>            
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingTwo">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseTwo" >
+                                       Who can apply for the Trademark?
+                                   </a>
+                               </h4>
+                           </div>
+                           <div id="collapseTwo" class="panel-collapse collapse"  data-parent="#accordion">
+                            <div class="panel-body">
+                                <p>Any Individual, Company, Proprietor or legal entity who can claim to be an owner of the Trademark can apply for it. The trademark Registration formalities can be done in 18 to 24 months after that you can start using the ‘TM’ symbol. Once your trademark registry is done and registration certificate is issued then you may use ® (registered symbol) next to your trademark. The validity of a registered trademark is for 10 years from the date of filing and that can be renewed from time to time. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingThree">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseThree">
+                                    What are the types of Trademark?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse" data-parent="#accordion">
+                            <div class="panel-body">
+                                <p>There are several types of Trademark which are given below:
+                                </p>
+                                <p>
+                                    A name of a person or surname or predecessor in business or the signature of the person.
+                                    The coined word or an invented word or any dictionary words that are not being directly descriptive of the character.
+                                    Alphanumeric or letter or any combination thereof.
+                                    Image, symbol, monograms, 3-dimensional shapes etc
+                                    Sound marks in audio format
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFour">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseFour">
+                                    What are the functions of Trademark?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
+                            <div class="panel-body">
+                                <p>Following are the functions of Trademark </p>
+                                <p>It identifies the product or the services and its sources. </p>
+                                <p>It provides a guarantee for its quality </p>
+                                <p>It helps in advertising the products and services. </p>
+                                <p>Read more : Classes of Trademark Goods and Services </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFive">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseFive">
+                                    What are the documents required for Trademark Registration?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive" data-parent="#accordion">
+                            <div class="panel-body">
+                                <p>Following are the documents which are required for the Trademark registration: </p>
+                                <p>Copy of Trademark or logo </p>
+                                <p>Applicant details like name, address, and nationality and for the company it requires the state of incorporation </p>
+                                <p>Goods or services to register </p>
+                                <p>Date of first use of the trademark in India. </p>
+                                <p>Power of attorney which is to be signed by the applicant. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--- END COL -->     
+        </div><!--- END ROW -->        
+
+    </div>
+
+</div>
+
 
 <section id="about" class="about roomy-100">
 
